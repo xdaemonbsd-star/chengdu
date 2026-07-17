@@ -17,3 +17,6 @@ ehthumbs.db
 Icon?
 
 readme.adoc
+
+.bsp/
+.vscode/
