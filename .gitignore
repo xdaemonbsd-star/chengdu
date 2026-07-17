@@ -1,0 +1,17 @@
+.mill-version
+out/
+.bloop/
+
+
+.metals/
+.metals.sbt
+
+log/
+*.log
+
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Icon?
